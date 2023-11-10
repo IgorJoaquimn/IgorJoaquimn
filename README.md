@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at https://github.com/IgorJoaquimn/
 
 - 📫 How to reach me **igor.joaquim@dcc.ufmg.br**
-
+<hr>
 - 📄 Know about my experiences [https://www.linkedin.com/in/igorjoaquim/ or http://lattes.cnpq.br/3748132634292590]
 
 <h3 align="left">Connect with me:</h3>
