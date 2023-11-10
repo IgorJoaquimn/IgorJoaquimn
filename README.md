@@ -11,9 +11,11 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/igorjoaquim/ or http://lattes.cnpq.br/3748132634292590]
 
 <hr>
+
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorjoaquimn&show_icons=true&locale=en&layout=compact" alt="igorjoaquimn" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=igorjoaquimn&show_icons=true&locale=en" alt="igorjoaquimn" /></p>
-
+</div>
 <hr>
 
 <h3 align="center">My Favorite Tools:</h3>
