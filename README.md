@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **how to use LLMs like llama and mistral. And how to apply my data science skills in the real world.**
 
-- 👨‍💻 All of my projects are available at [here !](here !)
+- 👨‍💻 All of my projects are available at https://github.com/IgorJoaquimn/IgorJoaquimn
 
 - 📫 How to reach me **igor.joaquim@dcc.ufmg.br**
 
