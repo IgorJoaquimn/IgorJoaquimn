@@ -1,4 +1,5 @@
 <h1 align="center">I'm Igor Joaquim</h1>
+
 - 👨‍🔬 Undergraduate in Computer Science UFMG. I have research interests in the areas of **Natural Language Processing, Data Science and Social Computing**.
 
 - 🌱 I’m currently learning **how to use LLMs like llama and mistral. And how to apply my data science skills in the real world.**
