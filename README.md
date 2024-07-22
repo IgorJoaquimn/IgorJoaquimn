@@ -10,11 +10,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/igorjoaquim/ or http://lattes.cnpq.br/3748132634292590]
 
-<hr>
 
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorjoaquimn&show_icons=true&locale=en&layout=compact&size_weight=0.2&count_weight=1&langs_count=10&theme=buefy&hide=Scheme,SAS" alt="igorjoaquimn" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=igorjoaquimn&show_icons=true&locale=en&theme=buefy" alt="igorjoaquimn" /></p>
 </div>
-
-
